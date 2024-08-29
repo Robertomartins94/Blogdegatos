@@ -1,0 +1,17 @@
+build 
+.DS_Store
+*.orig
+.sass-cache
+node_modules
+*.log
+test-results.xml
+.env
+.env.temp
+package.json.lerna_backup
+webpack-report
+stats
+.idea/
+coverage
+.vscode
+test-coverage-output
+.npm/
